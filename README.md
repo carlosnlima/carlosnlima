@@ -17,6 +17,8 @@
     <img aling="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div> <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnlima&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Tecnologias e office
 <div style="display: inline-block"><br/>
